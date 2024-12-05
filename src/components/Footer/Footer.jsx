@@ -34,7 +34,7 @@ const Footer = () => {
             <FaLinkedin className="h-8 w-8" color="#0A66C2" />
           </a>
           <a
-            href="https://www.instagram.com/edumomentumllp/"
+            href="https://www.instagram.com/nexcorealliance/"
             className="hover:opacity-75"
             aria-label="Instagram"
             target="_blank"
