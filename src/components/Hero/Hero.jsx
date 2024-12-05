@@ -33,7 +33,7 @@ const Hero = () => {
   
     <style jsx>{`
       section {
-        background-color: transparent; /* Ensure no background color shows */
+        background-color:blue; /* Ensure no background color shows */
         background-size: cover;
         background-position: center;
       }
