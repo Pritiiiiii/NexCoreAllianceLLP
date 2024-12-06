@@ -119,7 +119,7 @@ const Footer = () => {
     {/* Sticky WhatsApp Icon */}
     <div className="fixed bottom-4 right-4 z-50">
       <a
-        href="https://wa.me/919594402916"
+        href="https://wa.me/9594430295"
         target="_blank"
         rel="noopener noreferrer"
         className="hover:text-lightBlue"
